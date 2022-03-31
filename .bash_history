@@ -158,3 +158,58 @@ cd desteban006
 ls
 sudo -i
 exit
+ls
+cd node_modules
+ls
+cd postcss
+ls
+cd ..
+nano .postcssrc
+touch tailwind.config.js
+nano tailwind.config.js
+cd src
+ls
+nano styles.css
+cd ..
+cd dist
+ls
+cd ..
+npm run build
+cd dist
+ls
+nano index.ff7d3fc0.css
+ls
+cd ..
+cd src
+ls
+nano styles.css
+cd ..
+nano package.json
+cd src
+nano styles.css
+nano index.html
+git init -b main
+cd ..
+git init -b main
+git init -b src
+git init --bare src
+gur add . && git commit -m "initial commit"
+git add . && git commit -m "initial commit"
+git add src && git commit -m "initial commit"
+cd src
+ls
+git add . && git commit -m "initial commit"
+cd ..
+git add . && git commit -m "initial commit"
+ls
+git add .
+git remote -v
+git init
+git remote -v
+git add .
+git commit -m "initial commit"
+gh repo create
+apt install gitsome
+gh repo create
+gh repo create pruebaHTMLCSSherramientas
+gh repo create

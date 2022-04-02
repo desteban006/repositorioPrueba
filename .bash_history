@@ -303,3 +303,89 @@ git push origin https://github.com/desteban006/proyectoPrueba.git
 git push origin master
 cd src
 git push origin master
+ls
+cd dist
+ls
+cd..
+cd ..
+git init - b main
+git init - bare main
+git init --bare main
+git add .
+git commit -m "commit"
+git remote add master https://github.com/desteban006/proyectoPrueba.git
+git remote -v
+git push origin master
+git push master
+git push
+git push https://github.com/desteban006/proyectoPrueba.git
+git remote add master https://github.com/desteban006/proyectoPrueba.git
+git push origin master
+git push --set-upstream origin master
+git push --set-upstream master
+git push --set-upstream master master
+git pull --set-upstream master master
+git push --set-upstream master master
+ls
+git push --set-upstream master
+git push --set-upstream master master
+git push --set-upstream master
+git pull origin https://github.com/desteban006/proyectoPrueba.git
+git pull --set-upstream https://github.com/desteban006/proyectoPrueba.git
+git reset HEAD
+LS
+ls
+git push --set-upstream master
+git reset HEAD
+git rm -r --cached root
+git rm -r --cached hooks
+
+git rm -r --cached HEAD
+git commit -m
+git commit -master
+ls
+cd src
+ls
+nano .cache
+nano .cached
+git reset HEAD index.html
+cd ..
+git reset HEAD index.html
+git init --base main
+git init --bare main
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/desteban006/repositorioPrueba.git
+git remote -v
+git push --set-upstream master
+git init --bare main
+git add .
+git remote -v
+git close --bare main
+git --help
+git --work-tree=https://github.com/desteban006/repositorioPrueba.git
+git help --work-tree
+git help --all
+git push --set-upstream master
+git remote rm origin https://github.com/desteban006/repositorioPrueba.git
+git remote -v
+git remote remove https://github.com/desteban006/proyectoPrueba.git
+git remote --remove https://github.com/desteban006/proyectoPrueba.git
+git remote set-url --delete https://github.com/desteban006/proyectoPrueba.git
+git remote -v
+git remote set-url delete https://github.com/desteban006/proyectoPrueba.git
+git remote set-url --delete https://github.com/desteban006/proyectoPrueba.git
+git remote set-url --delete
+sudo apt-get update
+sudo apt-get clean
+sudo apt-get autoclean
+git remote -v
+git apt-get update
+sudo apt-get update
+sudo apt-gey clean
+sudo apt-get clean
+sudo apt-get autoclean
+git remote -v
+git push --set-upstream master https://github.com/desteban006/repositorioPrueba.git
+exit
+git remote -v

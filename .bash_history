@@ -389,3 +389,47 @@ git remote -v
 git push --set-upstream master https://github.com/desteban006/repositorioPrueba.git
 exit
 git remote -v
+sudo add-apt-repository --remove ppa:desteban006/proyectoPrueba.git
+sudo add-apt-repository --remove ppa:https://github.com/desteban006/proyectoPrueba.git
+git remote rm https://github.com/desteban006/proyectoPrueba.git
+git remote rm desteban006/proyectoPrueba.git
+git remote rm proyectoPrueba.git
+git remote -v
+ls
+nano .git/config
+git remote -v
+git init --bare main
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/desteban006/repositorioPrueba.git
+git remote -v
+git push origin master
+cd src
+ls
+nano index.html
+cd ..
+
+git push origin master
+git commit
+git add .
+git commit
+git commit -m "Change commit"
+git push origin master
+nano .gitconfig
+nano .config
+git config --system --list
+git .config --system --list
+git config --system --list
+nano .git/credential.helper
+nano .credential.helper
+nano .config
+nano .git/config
+git push origin master
+nano .git/config
+git push origin master
+git push origin
+git push --set-upstream origin master
+exit
++exit
+exit
+git push --set-upstream origin master

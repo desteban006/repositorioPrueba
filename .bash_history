@@ -213,3 +213,93 @@ apt install gitsome
 gh repo create
 gh repo create pruebaHTMLCSSherramientas
 gh repo create
+git -v
+git --version
+gh repo create
+gh configure
+gh repo create
+ls
+node .gitsomeconfig
+nano .gitsomeconfig
+gh repo create
+gh repo create desteban006
+ls
+cd src
+ls
+gh repo create
+gh configure
+gh feed
+nano .gitsomeconfig
+cd ..
+nano .gitsomeconfig
+gh repo create
+gh repo create myProject
+gh repo --help
+gh repo create desteban006/myProject
+gh repo create desteban006/repo
+gh repo create
+gh repo create my-project --public
+gh auth login
+git init
+gh repo create
+gh repo create --help
+gh repo desteban006/nuevoProyecto
+gh repo create desteban006/nuevoProyecto
+gh repo create
+cd ..
+gh repo create
+gh repo create desteban006/newRepo
+
+gh repo create desteban006/newRepo
+nano .gitsomeconfig
+git init -b main
+git init -bare main
+git init --bare main
+git add .
+git commit -m "initial commit"
+gh repo create
+gh repo desteban006/myRepo create
+gh repo desteban006/myRepo
+gh repo create
+gh repo create --disable-issues  --public
+cd src
+mkdir projecto
+cd projecto
+gh repo create
+git init --bare main
+git add .
+git commit -m "initial commit"
+git add .
+git commit -m "initial commit"
+git init --bare main
+git commit -m "initial commit"
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/desteban006/proyectoPrueba.git
+git remote -v
+git push origin main
+cd ..
+git push origin main
+git remote -v
+git push origin https://github.com/desteban006/proyectoPrueba.git
+git push origin main https://github.com/desteban006/proyectoPrueba.git
+git pull --rebase origin main
+git add .
+git commit -m "initial commit"
+git push origin main
+git push
+git push -u  origin main
+git push --set-upstream origin master
+git push origin master
+git config --global
+git remote -v
+git push origin https://github.com/desteban006/proyectoPrueba.git
+cd ..
+git config --global
+--global
+git config --local
+nano .gitsomeconfig
+git push origin https://github.com/desteban006/proyectoPrueba.git
+git push origin master
+cd src
+git push origin master
